@@ -19,6 +19,7 @@ Ganma and his sister, Wisp, live alone in the forest. After a brief discussion, 
 - Author: Montse Gordillo Cumplido
 
 *Extra credits*
+
 All credits in 'credit' scene
 - Characters, animations, game creation and story by Montse Gordillo Cumplido, the author
 - Background images, scenes and drawings in it by Montse Gordillo Cumplido, the author
