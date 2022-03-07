@@ -4,8 +4,18 @@ Ganma and his sister, Wisp, live alone in the forest. After a brief discussion, 
 ## Notes
 3 finales, once one is completed, a star will appear in the main menu. Probably something will happen if you collect all three...
 
+- Will probably be an update once animations are fixed and credit scene drawing is done correctly
+
+
+## Screenshots
+![Imgur1](https://i.imgur.com/BzNAkma.png)
+![Imgur2](https://i.imgur.com/dkw3guJ.png)
+![Imgur3](https://i.imgur.com/5aGCcqv.png)
+![Imgur4](https://i.imgur.com/eaAFhrN.png)
+
+
 ## About
 All credits in 'credit' scene
-- Characters, game creation and story by Montse Gordillo Cumplido, the author
+- Characters, animations, game creation and story by Montse Gordillo Cumplido, the author
 - Background images, scenes and drawings in it by Montse Gordillo Cumplido, the author
 - Music from pages especified in the credit scene
