@@ -16,7 +16,7 @@ Ganma and his sister, Wisp, live alone in the forest. After a brief discussion, 
 
 ## Versions
 *V1*
--Initial relase
+- Initial relase
 
 *V2 (8-3-2022)*
 - Small fixes on credits scene
