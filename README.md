@@ -4,7 +4,7 @@ Ganma and his sister, Wisp, live alone in the forest. After a brief discussion, 
 ## Notes
 3 endings, once one is completed, a star will appear in the main menu. Probably something will happen if you collect all three...
 
-- Will probably be an update once animations are fixed and credit scene drawing is done correctly
+- Will probably be an update once animations are fixed
 
 
 ## Screenshots
@@ -13,6 +13,15 @@ Ganma and his sister, Wisp, live alone in the forest. After a brief discussion, 
 ![Imgur3](https://i.imgur.com/5aGCcqv.png)
 ![Imgur4](https://i.imgur.com/eaAFhrN.png)
 
+
+## Versions
+*V1*
+-Initial relase
+
+*V2 (8-3-2022)*
+- Small fixes on credits scene
+- Credit drawing cleaned
+- Added betatester
 
 ## About
 - Created with [Unity 2020.3.29f](https://unity.com/es)
